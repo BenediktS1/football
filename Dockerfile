@@ -1,3 +1,4 @@
+# Feature 10002 Erweiterung Dockerfile
 # Hotfix #20001
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
